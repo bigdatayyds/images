@@ -8,5 +8,7 @@ Checked in so far:
 
 - `product-covers/covers_part01.zip` — cover PNGs and `mapping.csv`
 - `product-covers/covers_part02.zip` — cover PNGs
+- `product-covers/covers_part03.zip` — cover PNGs
+- `product-covers/covers_part04.zip` — cover PNGs
 
-Parts 03–05 follow in a later change.
+Part 05 follows in a later change.
